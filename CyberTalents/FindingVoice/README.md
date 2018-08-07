@@ -13,7 +13,7 @@
 
     **WAV file **
         lets take a look at wav spectrogram using audacity 
-        ![alt text](https://raw.githubusercontent.com/MuhammadAli0/CTFs-Challenges-WriteUps/master/CyberTalents/FindingVoice/spectrogram.png)
+ ![alt text](https://raw.githubusercontent.com/MuhammadAli0/CTFs-Challenges-WriteUps/master/CyberTalents/FindingVoice/spectrogram.png)
         
         it look like DTMF
         lets decode it using PASLE32
